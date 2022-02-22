@@ -1,0 +1,14 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
